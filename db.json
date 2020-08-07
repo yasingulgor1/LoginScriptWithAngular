@@ -1,0 +1,22 @@
+{
+    "employees": [{
+            "id": 1,
+            "email": "yasin@goateknoloji.com",
+            "password": "123456",
+            "title": "Software Engineer"
+        },
+        {
+            "id": 2,
+            "email": "fatih@goateknoloji.com",
+            "password": "123456",
+            "title": "Software Developer"
+
+        },
+        {
+            "id": 3,
+            "email": "bahar@goateknoloji.com",
+            "password": "123456",
+            "title": "Graphic Designer"
+        }
+    ]
+}
